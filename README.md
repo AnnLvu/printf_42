@@ -21,15 +21,17 @@ The **ft_printf** function should behave similarly to `printf`, and support a su
 
 ## Installation 📦
 
-Clone the repository:
-   ```bash
-   git clone git@github.com:AnnLvu/ft_printf.git
-   cd ft_printf
+To compile and test **ft_printf**, follow these steps:
 
-## Compile get_next_line 💥
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:AnnLvu/printf_42.git
+   cd printf_42
+
+## Compile ft_printf 💥
 
  ```bash
- make        # Compiles the GNL library ⚒️
+ make        # Compiles the ft_pritf library ⚒️
  make clean  # Cleans up object files 🧹
  make fclean  # Full cleanup of generated files 🧼
  make re     # Rebuild everything from scratch 🔄
